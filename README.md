@@ -2,8 +2,9 @@
 Program files for Hommel's adjustment
 
 This program calculates and saves the following values in case of multiple comparisons, according to Hommel's method: 
-1. The new p threshold (A. J. SANKOH, M. F. HUQUE AND S. D. DUBEY:  STATISTICS IN MEDICINE, VOL. 16, 2529-42 (1997)). 
+1. The new p threshold (A. J. SANKOH, M. F. HUQUE AND S. D. DUBEY:  STATISTICS IN MEDICINE, VOL. 16, 2529-42 (1997)).
 2. The adjusted p values (S.P. Wright: Biometrics 48:1005-13 (1992)).
+
 This program does not need installation. In Linux, remember to set the execute permission of the program file.
  
 Usage:
